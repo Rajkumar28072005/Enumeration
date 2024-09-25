@@ -37,14 +37,14 @@ Open terminal and try execute some kali linux commands
 
 ## DNS Enumeration:
 ## DNS Recon:
-![dnsrecon](https://github.com/Reebak04/Enumeration/assets/118364993/fe4fa83a-0167-4101-8350-8309b44050ce)
+![WhatsApp Image 2024-09-25 at 03 12 55_d31a08d9](https://github.com/user-attachments/assets/ddc889d1-2fc1-435a-95a7-fe4706f39edc)
+
 ## dnsenum:
-![dnse1](https://github.com/Reebak04/Enumeration/assets/118364993/f4f23195-a6a9-4dbf-8483-94770faf91f4)
-![dnse2](https://github.com/Reebak04/Enumeration/assets/118364993/e50cd108-243d-4849-aa93-8052d1b0db11)
+![WhatsApp Image 2024-09-25 at 03 05 43_20469e62](https://github.com/user-attachments/assets/742e51df-96ab-428a-90d9-42e440db1d3a)
+
 ## smtp-user-enum:
-![smtp](https://github.com/Reebak04/Enumeration/assets/118364993/3d40d01f-31d1-4144-90e5-c90d336a3de8)
-## nmap –script smtp-enum-users.nse <hostname>:
-![smtps](https://github.com/Reebak04/Enumeration/assets/118364993/173bffb2-9bd9-4b67-ae7d-d1a2098725b6)
+![WhatsApp Image 2024-09-25 at 03 12 55_1da3c019](https://github.com/user-attachments/assets/54f896b9-08d6-49c6-8311-56f16102ca53)
+
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
 
